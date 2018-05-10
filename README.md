@@ -15,4 +15,4 @@ This repository contains my notes for the research papers that I read since the 
   - [Recurrent Neural Networks to Correct Satellite Image Classification Maps]()
   - [Convolutional Neural Networks for Large-Scale Remote-Sensing Image Classification]()
   - [Damage Detection from Aerial Images via Convolutional Neural Networks]()
-  - [Learning deep structured network for weakly supervised change detection]()
+  - [Learning deep structured network for weakly supervised change detection](https://github.com/dalmia/machine-learning-paper-notes/blob/master/computer-vision/change-detection/Learning%20deep%20structured%20network%20for%20weakly%20supervised%20change%20detection.md) ([arXiV](https://arxiv.org/abs/1606.02009))
