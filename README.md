@@ -5,11 +5,12 @@ This repository contains my notes for the research papers that I read since the 
 
 ## Computer Vision
 
-- [Unsupervised Change Detection in Satellite Using PCA + kmeans]()
-- [Automatic analysis of the difference image for unsupervised change detection]()
-- [Change Detection in Satellite Images Using a Genetic Algorithm Approach]()
-- [Change Detection in Synthetic Aperture Radar Images Based on Deep Neural Networks]()
-- [Recurrent Neural Networks to Correct Satellite Image Classification Maps]()
-- [Convolutional Neural Networks for Large-Scale Remote-Sensing Image Classification]()
-- [Damage Detection from Aerial Images via Convolutional Neural Networks]()
-- [Learning deep structured network for weakly supervised change detection]()
+- Change Detection
+  - [Unsupervised Change Detection in Satellite Using PCA + kmeans]()
+  - [Automatic analysis of the difference image for unsupervised change detection]()
+  - [Change Detection in Satellite Images Using a Genetic Algorithm Approach]()
+  - [Change Detection in Synthetic Aperture Radar Images Based on Deep Neural Networks]()
+  - [Recurrent Neural Networks to Correct Satellite Image Classification Maps]()
+  - [Convolutional Neural Networks for Large-Scale Remote-Sensing Image Classification]()
+  - [Damage Detection from Aerial Images via Convolutional Neural Networks]()
+  - [Learning deep structured network for weakly supervised change detection]()
