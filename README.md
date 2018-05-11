@@ -20,5 +20,4 @@ This repository contains my notes for the research papers that I read since the 
 
 - **Image Alignment**
   - [Alignment of 3D Building Models with Satellite Images Using Extended Chamfer Matching](https://github.com/dalmia/machine-learning-paper-notes/blob/master/computer-vision/image-alignment/Alignment%20of%203D%20Building%20Models%20with%20Satellite%20Images%20Using%20Extended%20Chamfer%20Matching.md) ([IEEE](https://ieeexplore.ieee.org/document/6910066/))
-  
   - [Learning to Align from scratch](https://github.com/dalmia/machine-learning-paper-notes/blob/master/computer-vision/image-alignment/Learning%20to%20align%20from%20scratch.md) ([NIPS](https://papers.nips.cc/paper/4769-learning-to-align-from-scratch))
