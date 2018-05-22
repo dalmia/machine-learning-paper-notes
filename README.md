@@ -19,8 +19,8 @@ This repository contains my notes for the research papers that I read since the 
 
 - **Weakly supervised Semantic Segmentation**
    - [Learning deep structured network for weakly supervised change detection](https://github.com/dalmia/machine-learning-paper-notes/blob/master/computer-vision/change-detection/Learning%20deep%20structured%20network%20for%20weakly%20supervised%20change%20detection.md) ([arXiV](https://arxiv.org/abs/1606.02009))
-   - [From Image-level to Pixel-level Labeling with Convolutional Networks](https://github.com/dalmia/machine-learning-paper-notes/blob/master/computer-vision/weakly-supervised-segmentation/From%20Image-Level%20to%20Pixel-level%20Labeling%20with%20Convolutional%20Neural%20Networks.md)([arXiV](https://arxiv.org/abs/1411.6228v3))
-   - [Weakly Supervised Semantic Segmentation Based on Web Image Co-segmentation]()([arXiV](https://arxiv.org/abs/1705.09052))
+   - [From Image-level to Pixel-level Labeling with Convolutional Networks](https://github.com/dalmia/machine-learning-paper-notes/blob/master/computer-vision/weakly-supervised-segmentation/From%20Image-Level%20to%20Pixel-level%20Labeling%20with%20Convolutional%20Neural%20Networks.md) ([arXiV](https://arxiv.org/abs/1411.6228v3))
+   - [Weakly Supervised Semantic Segmentation Based on Web Image Co-segmentation]() ([arXiV](https://arxiv.org/abs/1705.09052))
    - [Learning Pixel-level Semantic Affinity with Image-level Supervision
 for Weakly Supervised Semantic Segmentation]() ([arXiV](https://arxiv.org/abs/1803.10464))
    - [Feedback Neural Network for Weakly Supervised Geo-Semantic Segmentation]() ([arXiv](https://arxiv.org/abs/1612.02766))
