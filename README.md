@@ -3,6 +3,7 @@ This repository contains my notes for the research papers that I read since the 
 
 - [Computer Vision](#computer-vision)
   - [Change Detection](https://github.com/dalmia/machine-learning-paper-notes/tree/master/computer-vision/change-detection)
+  - [Semantic Segmentation](https://github.com/dalmia/machine-learning-paper-notes/tree/master/computer-vision/semantic-segmentation)
   - [Weakly supervised Semantic Segmentation](https://github.com/dalmia/machine-learning-paper-notes/tree/master/computer-vision/weakly-supervised-segmentation)
 
 ## Computer Vision
@@ -15,6 +16,12 @@ This repository contains my notes for the research papers that I read since the 
   - [Change Detection in Synthetic Aperture Radar Images Based on Deep Neural Networks](https://github.com/dalmia/machine-learning-paper-notes/blob/master/computer-vision/change-detection/Change%20Detection%20in%20Synthetic%20Aperture%20Radar%20Images%20Based%20on%20Deep%20Neural%20Networks.md) ([IEEE](https://ieeexplore.ieee.org/document/7120131/))
   - [Recurrent Neural Networks to Correct Satellite Image Classification Maps](https://github.com/dalmia/machine-learning-paper-notes/blob/master/computer-vision/change-detection/Recurrent%20Neural%20Networks%20to%20Correct%20Satellite%20Image%20Classification.md) ([IEEE](https://ieeexplore.ieee.org/document/7938635))
   - [Damage Detection from Aerial Images via Convolutional Neural Networks](https://github.com/dalmia/machine-learning-paper-notes/blob/master/computer-vision/change-detection/Damage%20Detection%20from%20Aerial%20Images%20via%20Convolutional%20Neural%20Networks.md) ([IEEE](https://ieeexplore.ieee.org/document/7986759/))
+
+
+- **Semantic Segmentation**
+  - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://camo.githubusercontent.com/d3691bd39b74d10164610b8b9cb9376f70b40da4/687474703a2f2f6d6174746d6163792e696f2f766e65742e7079746f7263682f696d616765732f6469616772616d2e706e67)
+  - [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1606.04797)
+  - [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587)
 
 
 - **Weakly supervised Semantic Segmentation**
